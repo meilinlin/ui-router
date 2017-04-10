@@ -1,0 +1,14 @@
+{
+  "name": "ui-route",
+  "version": "1.0.0",
+  "description": "ui-route test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ui-route"
+  ],
+  "author": "yml",
+  "license": "ISC"
+}
